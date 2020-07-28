@@ -30,6 +30,8 @@
 
 ### 보안 관련  
  - [안전한 패스워드 저장 - 네이버D2](https://d2.naver.com/helloworld/318732)  
+ - [한국디지털포렌식센터 포렌식 알려주는 에디터즈(FORZ)](https://linkareer.com/activity/39987?utm_source=cafe_specup&utm_medium=list_specup&utm_campaign=list_content)
+ > 2기 도전?
 
 ### ML 관련  
  - [T아카데미](https://tacademy.skplanet.com/frontMain.action)  
