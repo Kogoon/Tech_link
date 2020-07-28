@@ -12,6 +12,10 @@
  - [레진코믹스](https://tech.lezhin.com/)  
  - [데일리호텔](https://dailyhotel.io/)  
  - [로켓펀치](https://blog.rocketpunch.com/)  
+ 
+### Python 관련
+ - [파이썬 Top10 웹프레임워크 2020](https://hackernoon.com/top-10-python-web-frameworks-2020-edition-r1h3u84)  
+ - [파이썬 앱 개발 모듈 KIVY](https://blog.naver.com/dsz08082/221842582052)
 
 ### 클라우드 / 아키텍트 관련  
  - [300원에 200만뷰 소화하기](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/)  
