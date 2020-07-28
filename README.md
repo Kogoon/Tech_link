@@ -31,12 +31,14 @@
 ### 보안 관련  
  - [안전한 패스워드 저장 - 네이버D2](https://d2.naver.com/helloworld/318732)  
  - [한국디지털포렌식센터 포렌식 알려주는 에디터즈(FORZ)](https://linkareer.com/activity/39987?utm_source=cafe_specup&utm_medium=list_specup&utm_campaign=list_content)
- > 2기 도전?
+ > 2기 도전?  
+ - [해킹 방어 대회 소개 및 공부 방법](https://ndb796.tistory.com/80)  
 
 ### ML 관련  
  - [T아카데미](https://tacademy.skplanet.com/frontMain.action)  
  - [딥러닝이랑 머신러닝의 차이점 이해하기](http://www.itworld.co.kr/techlibrary/153752)  
  - [리멤버는 어떻게 명함을 정확히 인식할까? : OpenCV 이미지 프로세싱](https://blog.dramancompany.com/2019/03/opencv%eb%a1%9c-%ec%8b%a4%ec%8b%9c%ea%b0%84-%eb%aa%85%ed%95%a8-%ec%9d%b8%ec%8b%9d%ed%95%98%ea%b8%b0/)  
 
-### 기사  
+### 기사 / 회고글
  - [SK텔레콤, AWS와 한국어 자연어 처리모델 공개](https://zdnet.co.kr/view/?no=20200428093427)  
+ - [체대 출신 개발자 2019년 회고글](https://ryan-han.com/post/memoirs/memoirs2019/)
