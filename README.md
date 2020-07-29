@@ -42,3 +42,7 @@
 ### 기사 / 회고글
  - [SK텔레콤, AWS와 한국어 자연어 처리모델 공개](https://zdnet.co.kr/view/?no=20200428093427)  
  - [체대 출신 개발자 2019년 회고글](https://ryan-han.com/post/memoirs/memoirs2019/)
+ 
+ 
+### 번외 (기술적이지 않은.. )
+ - [글쓰기를 쉽게 만드는 4가지 방법](https://brunch.co.kr/@skychang44/84)
