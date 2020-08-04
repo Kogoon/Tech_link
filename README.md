@@ -33,6 +33,7 @@
  - [한국디지털포렌식센터 포렌식 알려주는 에디터즈(FORZ)](https://linkareer.com/activity/39987?utm_source=cafe_specup&utm_medium=list_specup&utm_campaign=list_content)
  > 2기 도전?  
  - [해킹 방어 대회 소개 및 공부 방법](https://ndb796.tistory.com/80)  
+ - [Android ctf](https://medium.com/bugbountywriteup/android-ctf-kgb-messenger-d9069f4cedf8)
 
 ### ML 관련  
  - [T아카데미](https://tacademy.skplanet.com/frontMain.action)  
